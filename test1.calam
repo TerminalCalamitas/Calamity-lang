@@ -1,0 +1,11 @@
+print("Enter your favorite number")
+input()
+print("hmm, what an interesting number")
+
+var i = random(23, 400)
+
+print("This is my favorite number:")
+
+print(i)
+
+print("SEE, ISN'T IT THE MOST PERFECT NUMBER?")

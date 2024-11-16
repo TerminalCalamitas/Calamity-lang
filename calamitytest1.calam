@@ -1,0 +1,20 @@
+print("Enter your favorite number")
+var num = 0
+def num_input():
+    print("incorrect")
+    print(is_number(num))
+    input()
+while num != 69 then num_input()
+
+print("hmm, what an interesting number")
+# Here is a comment
+var i = random(23, 400)
+
+print("This is my favorite number:")
+
+var i = i*2
+
+print(i)
+
+print("SEE, ISN'T IT THE MOST PERFECT NUMBER?")
+
